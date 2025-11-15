@@ -1,5 +1,5 @@
 [package]
-name = "wgpu_bug"
+name = "wgpu_min_repro"
 version = "0.1.0"
 edition = "2024"
 
