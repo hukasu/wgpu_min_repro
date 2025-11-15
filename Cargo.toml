@@ -1,0 +1,7 @@
+[package]
+name = "wgpu_bug"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bevy = { git = "https://github.com/bevyengine/bevy", rev = "0d46518eb21df54ba951f503930501bc2639e2a2" }
